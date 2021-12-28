@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/octavi_laurel_sprout.mk
+    $(LOCAL_DIR)/xtended_laurel_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    octavi_laurel_sprout-user \
-    octavi_laurel_sprout-userdebug \
-    octavi_laurel_sprout-eng
+    xtended_laurel_sprout-user \
+    xtended_laurel_sprout-userdebug \
+    xtended_laurel_sprout-eng
